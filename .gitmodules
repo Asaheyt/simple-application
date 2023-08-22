@@ -1,6 +1,8 @@
 [submodule "core-module"]
 	path = core-module
 	url = https://github.com/Asaheyt/core-module.git
+	branch = master
 [submodule "security-module"]
 	path = security-module
 	url = https://github.com/Asaheyt/security-module.git
+	branch = master
