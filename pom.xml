@@ -17,7 +17,7 @@
 	<description>Simple Application project as a template</description>
 
 	<modules>
-		<module>core</module>
+		<module>core-module</module>
 	</modules>
 
 	<properties>
